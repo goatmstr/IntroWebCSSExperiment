@@ -1,0 +1,22 @@
+h1,
+p {
+  color: red;
+  font-family: Arial, Helvetica, sans-serif;
+}
+div p {
+  color: blue;
+  font-size: 4vw;
+}
+.textbox > p {
+  color: purple;
+  border: 1vmin black solid;
+}
+a:link {
+  border: 1vh purple solid;
+}
+a:hover {
+  border-color: blue;
+}
+a:visited {
+  border-color: red;
+}
